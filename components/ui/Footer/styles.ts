@@ -4,7 +4,6 @@ export const FooterContainer = styled.div`
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   padding: 40px;
-  width: 100%;
   background-color: #63b3ed;
   box-shadow: 10px 10px 88px 0px rgba(0, 0, 0, 0.2);
 
