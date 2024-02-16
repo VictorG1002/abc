@@ -5,7 +5,7 @@ import * as S from './styles'
 
 interface IButtonButton {
   children: React.ReactNode
-  onClick: () => void
+  onClick?: () => void
 }
 
 export default function Button({ children , onClick }: IButtonButton) {
