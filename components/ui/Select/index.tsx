@@ -27,7 +27,6 @@ export default function Select({
   className
 }: ISelect) {
   return (
-
     <S.SelectStyled
       disabled={disabled}
       id={id}
